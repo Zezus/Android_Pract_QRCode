@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pract_QRCode</string>
+    <string name="qrcode">qrcode</string>
+    <string name="result_text_default">result_text_default</string>
+</resources>
